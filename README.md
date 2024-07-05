@@ -1,4 +1,4 @@
-# Progetto-Fond-Scienza-Dati
+# Progetto per Fondamenti di Scienza dei Dati
 <ul>
 <li>Presenti uno dei due dataset utilizzati con nome "inflation.ipynb", mentre il secondo, causa eccessive dimensioni, è presente attraverso questo <a href="https://www.kaggle.com/datasets/asaniczka/tmdb-movies-dataset-2023-930k-movies">link</a> alla piattaforma Kaggle.</li><br>
 <li>Presente anche un shapefile utilizzato con nome "ne_110m_admin_0_countries.shp".</li><br>
